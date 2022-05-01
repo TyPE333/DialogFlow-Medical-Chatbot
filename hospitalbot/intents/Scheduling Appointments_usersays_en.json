@@ -1,0 +1,79 @@
+[
+  {
+    "id": "7a9da706-03ca-4d89-8250-29413c351f12",
+    "data": [
+      {
+        "text": "Set an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "dermatology",
+        "meta": "@AppointmentSpeciality",
+        "alias": "AppointmentSpeciality",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71a83699-e3fe-48ee-beeb-d30f21f2ff17",
+    "data": [
+      {
+        "text": "I would like to set an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "3 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87903aaa-4e8e-46a5-8aab-3b20f69b455e",
+    "data": [
+      {
+        "text": "Set an appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "Wednesday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "2 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

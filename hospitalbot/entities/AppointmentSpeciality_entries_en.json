@@ -1,0 +1,17 @@
+[
+  {
+    "value": "General Physician",
+    "synonyms": [
+      "General Physician",
+      "regular checkup",
+      "weekly checkup"
+    ]
+  },
+  {
+    "value": "Dermatologist",
+    "synonyms": [
+      "Dermatology",
+      "skin disease"
+    ]
+  }
+]
